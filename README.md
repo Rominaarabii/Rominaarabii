@@ -1,8 +1,9 @@
 ## Hi there 👋 
 AI Engineer in Progress with focus on making the world better through technology<br>
+Passionate about collaborating on machine learning-based research projects in the IoT field
 
 
-## 🌐 Contact with me:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/romina-arabi) 
 
 # 🔧 Skills & Tools:
