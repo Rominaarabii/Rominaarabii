@@ -1,6 +1,6 @@
 ## Hi there 👋 
-AI Engineer in Progress with focus on making the world better through technology<br>
-Passionate about collaborating on machine learning-based research projects in the IoT field
+🌱 AI Engineer in Progress with focus on making the world better through technology<br>
+🔭 Passionate about collaborating on machine learning-based research projects in the IoT field
 
 
 ## 🌐 Connect with me:
