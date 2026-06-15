@@ -2,12 +2,11 @@
 
 AI/ML Engineer with a background in Electrical & Computer Engineering and Applied Machine Learning.
 
-Currently interested in:
-- AI-Powered Applications
-- Data Pipelines
-- Time-Series Forecasting
-- Intelligent Systems
-- AI-Assisted Development
+Interested in:
+• Applied Machine Learning
+• Time-Series Forecasting
+• Wearable Sensor Analytics
+• Natural Language Processing
 
 ## Tech Stack
 
