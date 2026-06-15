@@ -3,12 +3,11 @@
 Machine Learning Engineer | MEng ECE @ Toronto Metropolitan University
 
 Interested in:
+- Applied Machine Learning
+- Time-Series Forecasting
+- Wearable Sensor Analytics
+- Natural Language Processing
 
-* Machine Learning
-* Time-Series Forecasting
-* Wearable Sensors
-* NLP
+**Tech:** Python • TensorFlow/Keras • PyTorch • Scikit-Learn • Pandas • NumPy • Git • SQL
 
-**Tech:** Python • TensorFlow • PyTorch • Pandas • NumPy • SQL
-
-📫 Open to AI, ML, and research opportunities.
+📫 Always interested in AI, machine learning, research, and building data-driven solutions.
