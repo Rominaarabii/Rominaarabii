@@ -10,7 +10,7 @@ Interested in:
 
 ## Tech Stack
 
-Python • TensorFlow • PyTorch • SQL • Pandas • NumPy • Git
+Python • TensorFlow/Keras • Scikit-Learn •PyTorch • Pandas • NumPy • Git • SQL
 
 ## Selected Projects
 
